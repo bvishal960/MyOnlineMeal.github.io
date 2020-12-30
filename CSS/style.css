@@ -29,7 +29,7 @@
 }
 #navbar{
     display: flex;
-    position: sticky;
+    position: relative;
     top: 0%;
     align-items: center;
 
@@ -45,7 +45,7 @@
     text-decoration: none;
     margin: 28px 13px;
     padding: 4px 1px;
-    color: black;
+    color: white;
 }
 #navbar ul li a:hover{
     color: black;
@@ -129,7 +129,7 @@
     align-items: center;
 } 
  #service .box{
-    width: 380px;
+    width: 350px;
     font-family: 'Nanum Myeongjo', serif;
     align-items: center;
     padding: 20px;
